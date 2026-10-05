@@ -1,1 +1,3 @@
 I am adding another line into this document from the master branch instead of from the other branch
+
+Adding a new line for this document
